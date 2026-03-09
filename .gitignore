@@ -4,5 +4,6 @@
 .env
 .ipynb_checkpoints
 __pycache__/
-build/
-log/
+**/build/
+**/log/
+**/install/
