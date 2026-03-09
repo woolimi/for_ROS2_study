@@ -3,3 +3,6 @@
 .DS_Store
 .env
 .ipynb_checkpoints
+__pycache__/
+build/
+log/

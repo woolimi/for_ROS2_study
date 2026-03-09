@@ -1,0 +1,28 @@
+[0.375s] Invoking command in '/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials': PYTHONPATH=/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/build/controller_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(jazzy) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/controller_tutorials build --build-base /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/build/controller_tutorials/build install --record /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/build/controller_tutorials/install.log --single-version-externally-managed install_data
+[0.463s] running egg_info
+[0.469s] writing build/controller_tutorials/controller_tutorials.egg-info/PKG-INFO
+[0.469s] writing dependency_links to build/controller_tutorials/controller_tutorials.egg-info/dependency_links.txt
+[0.469s] writing entry points to build/controller_tutorials/controller_tutorials.egg-info/entry_points.txt
+[0.469s] writing requirements to build/controller_tutorials/controller_tutorials.egg-info/requires.txt
+[0.469s] writing top-level names to build/controller_tutorials/controller_tutorials.egg-info/top_level.txt
+[0.480s] reading manifest file 'build/controller_tutorials/controller_tutorials.egg-info/SOURCES.txt'
+[0.481s] writing manifest file 'build/controller_tutorials/controller_tutorials.egg-info/SOURCES.txt'
+[0.481s] running build
+[0.481s] running build_py
+[0.482s] running install
+[0.484s] running install_lib
+[0.490s] running install_data
+[0.490s] running install_egg_info
+[0.496s] removing '/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/python3.12/site-packages/controller_tutorials-0.0.0-py3.12.egg-info' (and everything under it)
+[0.496s] Copying build/controller_tutorials/controller_tutorials.egg-info to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/python3.12/site-packages/controller_tutorials-0.0.0-py3.12.egg-info
+[0.497s] running install_scripts
+[0.536s] Installing control_rotate script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.536s] Installing monitor_for_move_turtle script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.536s] Installing move_turtle script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.536s] Installing move_turtle_state_machine script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.536s] Installing pose_dual_controller script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.536s] Installing qmonitor_for_pose_dual_controller script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.536s] Installing qmonitor_state_machine script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.536s] Installing simple_rotate script to /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/controller_tutorials
+[0.537s] writing list of installed files to '/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/build/controller_tutorials/install.log'
+[0.548s] Invoked command in '/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials' returned '0': PYTHONPATH=/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/build/controller_tutorials/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/install/controller_tutorials/lib/python3.12/site-packages:${PYTHONPATH} VIRTUAL_ENV_PROMPT=(jazzy) /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/controller_tutorials build --build-base /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/build/controller_tutorials/build install --record /home/woolim/Documents/for_ROS2_study/R2R 실전편 Turtlesim move controller 코드/controller_tutorials/build/controller_tutorials/install.log --single-version-externally-managed install_data
